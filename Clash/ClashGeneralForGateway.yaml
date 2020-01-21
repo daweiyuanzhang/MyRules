@@ -30,7 +30,7 @@ external-controller: 0.0.0.0:9090
 
 # 您可以将静态网页资源（如 clash-dashboard）放置在一个目录中，clash 将会服务于 `${API}/ui`
 # 参数应填写配置目录的相对路径或绝对路径。
-# external-ui: folder
+external-ui: /yacd
 
 # RESTful API 的口令 (可选)
 secret: ""
@@ -70,7 +70,7 @@ experimental:
 #   若要了解更多关于 DoH/DoT 相关技术，请自行查阅规范文档。
 dns:
   enable: true
-  ipv6: false
+  ipv6: faltruese
   listen: 0.0.0.0:53
   enhanced-mode: redir-host # 或 fake-ip
   # # fake-ip-range: 198.18.0.1/16 # 如果你不知道这个参数的作用，请勿修改
