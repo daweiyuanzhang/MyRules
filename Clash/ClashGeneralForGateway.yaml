@@ -70,7 +70,7 @@ experimental:
 #   若要了解更多关于 DoH/DoT 相关技术，请自行查阅规范文档。
 dns:
   enable: true
-  ipv6: faltruese
+  ipv6: false
   listen: 0.0.0.0:53
   enhanced-mode: redir-host # 或 fake-ip
   # # fake-ip-range: 198.18.0.1/16 # 如果你不知道这个参数的作用，请勿修改
