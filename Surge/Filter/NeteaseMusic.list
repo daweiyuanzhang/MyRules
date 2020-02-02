@@ -1,20 +1,12 @@
 # > NeteaseMusic
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,NeteaseMusic*
-DOMAIN,music.163.com
-DOMAIN,interface.music.163.com
-DOMAIN,interface3.music.163.com
-DOMAIN,apm.music.163.com
-DOMAIN,apm3.music.163.com
-DOMAIN,man.netease.com
-DOMAIN,api.iplay.163.com
 DOMAIN-SUFFIX,interface.music.163.com
 DOMAIN-SUFFIX,interface1.music.163.com
 DOMAIN-SUFFIX,interface2.music.163.com
 DOMAIN-SUFFIX,interface3.music.163.com
 DOMAIN-SUFFIX,interface4.music.163.com
 DOMAIN-SUFFIX,interface5.music.163.com
-DOMAIN-SUFFIX,isure.stream.qqmusic.qq.com
 DOMAIN-SUFFIX,apm.music.163.com
 DOMAIN-SUFFIX,apm3.music.163.com
 DOMAIN-SUFFIX,man.netease.com
@@ -43,6 +35,3 @@ IP-CIDR,59.111.128.0/17
 IP-CIDR,115.236.112.0/20
 IP-CIDR,223.252.192.0/19
 IP-CIDR,101.71.154.241/32
-IP-CIDR, 59.111.128.0/17
-IP-CIDR, 115.236.112.0/20
-IP-CIDR, 223.252.192.0/19
