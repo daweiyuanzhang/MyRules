@@ -92,7 +92,7 @@ dns:
 
 tun:
   enable: true
-  device-url: dev://clash0
+  device-url: dev://utun
   dns-listen: ':53'
   # fallback-filter:
   #   geoip: true # 默认
